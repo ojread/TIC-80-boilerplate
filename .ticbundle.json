@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "title": "Cart title",
+        "author": "Ollie Read",
+        "desc": "Cart description",
+        "script": "lua"
+    },
+    "output": {
+        "path": "./build",
+        "name": "cart",
+        "extension": "lua"
+    },
+    "files": [
+        "lib/bus.lua", "lib/ecs.lua", "lib/state.lua",
+        "states/game.lua",
+        "main.lua"
+    ],
+    "assets": ["assets.lua"]
+}

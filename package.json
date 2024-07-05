@@ -1,0 +1,16 @@
+{
+  "name": "tic-bundle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tic-bundle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tic-bundle": "^3.4.0"
+  }
+}
